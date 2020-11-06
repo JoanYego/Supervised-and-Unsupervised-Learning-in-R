@@ -1,4 +1,4 @@
-# Supervised-and-Unsupervised-Learning-in-R
+# Supervised and Unsupervised Learning in R
 
 This repository demonstrates concepts of supervised and unsupervised learning in R.
 
